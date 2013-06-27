@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+App	app.js	/^var App = function(){$/;"	f
+Module	lib/module.py	/^class Module:$/;"	c
+break_words	app.py	/^def break_words(stuff):$/;"	f
+five	app.py	/^five = 10 - 2 + 3 - 5$/;"	v
+print_first_and_last	app.py	/^def print_first_and_last(sentence):$/;"	f
+print_first_and_last_sorted	app.py	/^def print_first_and_last_sorted(sentence):$/;"	f
+print_first_word	app.py	/^def print_first_word(words):$/;"	f
+print_last_word	app.py	/^def print_last_word(words):$/;"	f
+secret_formula	app.py	/^def secret_formula(started):$/;"	f
+sentence	app.py	/^sentence = "All godtthings come to those who weight."$/;"	v
+sort_sentence	app.py	/^def sort_sentence(sentence):$/;"	f
+sort_words	app.py	/^def sort_words(words):$/;"	f
+sorted_words	app.py	/^sorted_words = sort_sentence(sentence)$/;"	v
+sorted_words	app.py	/^sorted_words = sort_words(words)$/;"	v
+start_point	app.py	/^start_point = 10000$/;"	v
+start_point	app.py	/^start_point = start_point \/ 10$/;"	v
+words	app.py	/^words = break_words(sentence)$/;"	v
